@@ -1,1 +1,1 @@
-Im Alberto, im studying Ingenieria en Informática (Computer Engineer), 7th grade.
+Im Alberto, im studying Computer Engineer, 7th grade.
