@@ -1,1 +1,1 @@
-Im Alberto, im studying Software Engineer.
+Hello I am Alberto, I am a software engineer.
